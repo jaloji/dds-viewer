@@ -1,0 +1,11 @@
+# Build output
+/build/
+/dist/
+/out/
+.vs/
+*.user
+__pycache__/
+
+# Test files: generated for this project and published (see testdata/README.md), without the duplicate
+# copies left next to the source image.
+/testdata/src/*.DDS
